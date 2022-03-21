@@ -2,8 +2,8 @@
 title: Create a Sample iOS App
 description: Create and examine your first Fiori for iOS app using the SAP BTP SDK Assistant for iOS connecting against a sample service.
 auto_validation: true
-primary_tag: products>ios-sdk-for-sap-btp
-tags: [  tutorial>beginner, operating-system>ios, topic>mobile, topic>odata, products>sap-business-technology-platform, products>sap-mobile-services ]
+primary_tag: software-product>sap-btp-sdk-for-ios
+tags: [  tutorial>beginner, operating-system>ios, topic>mobile, programming-tool>odata, software-product>sap-business-technology-platform, software-product>sap-mobile-services ]
 time: 15
 author_name: Sandeep TDS
 author_profile: https://github.com/sandeep-tds
