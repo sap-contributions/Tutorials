@@ -2,8 +2,8 @@
 title: Create custom iOS app with SAP BTP SDK Assistant for iOS
 description: Create an Xcode project with SAP BTP SDK Assistant for iOS, remove all generated UI parts, and create a custom built UI instead.
 auto_validation: true
-primary_tag: products>ios-sdk-for-sap-btp
-tags: [  tutorial>intermediate, operating-system>ios, topic>mobile, topic>odata, products>sap-business-technology-platform, products>sap-mobile-services ]
+primary_tag: software-product>sap-btp-sdk-for-ios
+tags: [  tutorial>beginner, operating-system>ios, topic>mobile, programming-tool>odata, software-product>sap-business-technology-platform, software-product>sap-mobile-services ]
 ---
 
 ## Prerequisites  
